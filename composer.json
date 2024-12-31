@@ -1,0 +1,17 @@
+{
+    "name": "mojtabagh0098/mvc",
+    "description": "this is a simple cms",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mojtaba",
+            "email": "mojtabagh0098@gmail.com"
+        }
+    ],
+    "require": {}
+}
