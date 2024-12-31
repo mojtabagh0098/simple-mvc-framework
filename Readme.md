@@ -81,9 +81,3 @@ We invite everyone to contribute and improve this MVC framework. Your contributi
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
