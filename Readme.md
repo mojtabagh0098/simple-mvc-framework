@@ -25,7 +25,7 @@ To use this project, follow these steps:
 
 1. Start the development server:
     ```bash
-    php -S localhost:8000 -t public
+    php -S localhost:8000
     ```
 
 2. Open your web browser and navigate to:
