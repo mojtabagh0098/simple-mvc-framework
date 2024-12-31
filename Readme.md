@@ -6,11 +6,11 @@ This project is a simple MVC (Model-View-Controller) framework written in PHP. I
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/mojtabagh0098/yourproject.git
+    git clone https://github.com/mojtabagh0098/simple-mvc-framework.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd yourproject
+    cd simple-mvc-framework
     ```
 3. Install dependencies:
     ```bash
